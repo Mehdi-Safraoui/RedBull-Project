@@ -1,0 +1,239 @@
+@import url('https://fonts.googleapis.com/css2?family=Ysabeau+Office:wght@100&display=swap');
+
+
+
+.page1{
+    width: 100%;
+    height: 98vh;
+}
+
+.page2{
+    width: 100%;
+    height: 98vh;
+}
+
+.page3{
+    width: 100%;
+    height: 98vh;
+}
+
+.page4{
+    width: 100%;
+    height: 98vh;
+}
+
+.page5{
+    width: 100%;
+    height: 98vh;
+}
+
+
+.container{
+    border: 1px solid black;
+    border-radius: 10px;
+}
+
+.searchbar{
+    border: none;
+    height: 100%;
+    width: 100%;
+    background-color: #0f0b19;
+}
+
+.image{
+    width: 420px;
+}
+
+.start{
+    width: 180px;
+    height: 50px;
+    border-radius: 10px;
+    margin-left: 170px;
+    margin-top: 30px;
+}
+
+.get{
+    font-size: 12px;
+    width: 130px;
+    height: 30px;
+    border-radius: 10px
+}
+
+.presentation{
+    font-family: 'Ysabeau Office', sans-serif;
+    font-size: 18px;
+}
+
+.page2 h2{
+    margin-top: 50px;
+    margin-left: 30px;
+    font-size: 60px;
+}
+
+.photop2{
+    width: 500px;
+    height: 500px;
+    margin-top: 80px;
+    margin-right: 60px;
+}
+
+.produit1{
+    background-color: white;
+    width: 20%;
+    height: 50%;
+    margin-top: 220px;
+}
+
+.produit2{
+    background-color: white;
+    width: 20%;
+    height: 50%;
+    margin-top: 80px;
+}
+
+.produit3{
+    background-color: white;
+    width: 20%;
+    height: 50%;
+    margin-top: 220px;
+}
+
+.photoprod1{
+    position: absolute;
+    top: 1400px;
+    left: 223px;
+    width: 200px;
+}
+
+.paraprod1{
+    margin-top: 150px;
+}
+
+.photoprod2{
+    position: absolute;
+    top: 1275px;
+    left: 575px;
+    width: 200px;
+}
+
+.paraprod2{
+    margin-top: 150px;
+}
+
+.photoprod3{
+    position: absolute;
+    top: 1400px;
+    left: 922px;
+    width: 200px;
+}
+
+.paraprod3{
+    margin-top: 150px;
+}
+
+.video{
+    margin: auto;
+    height: 100%;
+}
+
+.paraathlete{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.titre{
+    font-size: 30px;
+}
+
+
+.athlete1{
+    background-color: white;
+    width: 18%;
+    height: 300px;
+    margin-top: 150px;
+}
+
+.athlete2{
+    background-color: white;
+    width: 18%;
+    height: 300px;
+    margin-top: 150px;
+}
+
+.athlete3{
+    background-color: white;
+    width: 18%;
+    height: 300px;
+    margin-top: 150px;
+}
+
+.athlete4{
+    background-color: white;
+    width: 18%;
+    height: 300px;
+    margin-top: 150px;
+}
+
+.paraath{
+    margin-top: 30px;
+    font-size: 12px;
+}
+
+.imgath1{
+    position: absolute;
+    top: 2880px;
+    left: 78px;
+    border-radius: 10px;
+    width: 150px;
+    height: 220px;
+}
+
+.paraeth1{
+    margin-top: 100px;
+}
+
+
+.imgath2{
+    position: absolute;
+    top: 2880px;
+    left: 425px;
+    border-radius: 10px;
+    width: 150px;
+    height: 220px;
+}
+
+.paraeth2{
+    margin-top: 100px;
+}
+
+.imgath3{
+    position: absolute;
+    top: 2880px;
+    left: 770px;
+    border-radius: 10px;
+    width: 150px;
+    height: 220px;
+}
+
+.paraeth3{
+    margin-top: 100px;
+}
+
+.imgath4{
+    position: absolute;
+    top: 2880px;
+    left: 1118px;
+    border-radius: 10px;
+    width: 150px;
+    height: 220px;
+}
+
+.paraeth4{
+    margin-top: 100px;
+}
+
+footer{
+    align-items: center;
+}
